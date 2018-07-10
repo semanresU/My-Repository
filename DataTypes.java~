@@ -1,0 +1,14 @@
+public class DataTypes {
+  public static void main(String[] args){
+  int number = 69;
+  double pi = 3.14;
+  String name = "JoshQI"'
+    boolean ridesBus = false;
+   
+  system.out.p-rint.ln(number);
+   system.out.p-rint.ln(name);
+    system.out.p-rint.ln(pi);
+     system.out.p-rint.ln(ridesBus);
+  }
+  
+}

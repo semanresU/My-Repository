@@ -1,0 +1,17 @@
+public class IfElse{
+  public static void main(String[] args){
+    
+   booolean yesNo = true;
+   
+ 
+    
+   if(yesNo==true){
+     Systemn.out.println("Yes!")
+   }
+   else{
+     System.out.println("No")
+   }
+     
+      
+  } 
+}
